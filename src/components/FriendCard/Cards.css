@@ -1,0 +1,15 @@
+.image-card {
+    width: 25%;
+    padding: 20px;
+    align-content: center;
+  }
+  
+  img {
+    
+    width: 200x;
+    height: 200px;
+    margin: 50px;
+    /* border: 2px solid grey; */
+    border-radius: 10%;
+    align-items: center;
+  }

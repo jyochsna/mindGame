@@ -1,0 +1,12 @@
+.github-icon {
+    width: 30px;
+    height: 30px;
+}
+
+.footer {
+    height: 30px;
+    width: 100%;
+    margin-top: 20px;
+    position: fixed;
+    bottom: 0;
+}

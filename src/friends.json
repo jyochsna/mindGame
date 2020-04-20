@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Bear",
+     
+      "image": "./images/Bear.jpg"
+     
+    },
+
+    
+    {
+      "id": 2,
+      "name": "Dora",
+      "image": "./images/dora.jpg"
+      
+    },
+    {
+      "id": 3,
+      "name": "redElmo",
+      "image": "./images/elmo.jpg"
+     
+    },
+    {
+      "id": 4,
+      "name": "lion",
+      "image":"./images/lion.jpg"
+      
+    },
+    {
+      "id": 5,
+      "name": "nancy",
+      "image": "./images/nancy.jpg"
+      
+    },
+    {
+      "id": 6,
+      "name": "tweet",
+      "image": "http://1.bp.blogspot.com/-iamlnJXt2as/T8iH14lO6JI/AAAAAAAAD5c/NucFZSBWOb0/s1600/Disney_tweety_bird_characters_wallpaper_7.jpg"
+    },
+    
+    {
+      "id": 7,
+      "name": "dora",
+      "image": "https://s.yimg.com/fz/api/res/1.2/ihHByW3TpfvueYAP_eJguw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0yMjA7cT04MDt3PTI5Mw--/https://s.yimg.com/zb/imgv1/38142008-ea9e-3040-8390-f1080c5d42a6/t_500x300"
+    },
+    {
+      "id": 8 ,
+      "name": "elmo1",
+      "image": "./images/elm.jpg"
+    }
+   
+]
