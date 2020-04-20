@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mindGame/static/css/main.a53caa67.chunk.css",
+    "main.js": "/mindGame/static/js/main.545c7f3a.chunk.js",
+    "main.js.map": "/mindGame/static/js/main.545c7f3a.chunk.js.map",
+    "runtime-main.js": "/mindGame/static/js/runtime-main.505ca8d8.js",
+    "runtime-main.js.map": "/mindGame/static/js/runtime-main.505ca8d8.js.map",
+    "static/css/2.69121389.chunk.css": "/mindGame/static/css/2.69121389.chunk.css",
+    "static/js/2.10f825c1.chunk.js": "/mindGame/static/js/2.10f825c1.chunk.js",
+    "static/js/2.10f825c1.chunk.js.map": "/mindGame/static/js/2.10f825c1.chunk.js.map",
+    "index.html": "/mindGame/index.html",
+    "precache-manifest.963078939cddfe9d4a6ac6e6cbd821af.js": "/mindGame/precache-manifest.963078939cddfe9d4a6ac6e6cbd821af.js",
+    "service-worker.js": "/mindGame/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/mindGame/static/css/2.69121389.chunk.css.map",
+    "static/css/main.a53caa67.chunk.css.map": "/mindGame/static/css/main.a53caa67.chunk.css.map",
+    "static/js/2.10f825c1.chunk.js.LICENSE.txt": "/mindGame/static/js/2.10f825c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.505ca8d8.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.10f825c1.chunk.js",
+    "static/css/main.a53caa67.chunk.css",
+    "static/js/main.545c7f3a.chunk.js"
+  ]
+}
